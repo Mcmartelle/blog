@@ -29,12 +29,15 @@ When the lanyard is around your wrist it shouldn't fall off on accident.
 ![lanyard on wrist](/assets/lanyard-7.jpg)
 
 The lanyard can be attached to other things
+
 ![lanyard attaching to rod](/assets/lanyard-8.jpg)
 
 With a handy pull loop
+
 ![lanyard pull loop](/assets/lanyard-9.jpg)
 
 To loosen it with.
+
 ![lanyard being loosened with the pull loop](/assets/lanyard-10.jpg)
 
 Enjoy!
