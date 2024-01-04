@@ -8,4 +8,4 @@ Should an engineering project be done? Is it:
 4. Efficient: Bonus
 5. Elegant: Double Bonus
 
-![flowchart](assets/five-es-of-engineering-priority-flowchart.svg)
+![flowchart](/assets/five-es-of-engineering-priority-flowchart.svg)
